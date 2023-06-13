@@ -43,7 +43,7 @@ function App() {
                 setTitle(i);
               }}
             >
-              {a} &nbsp;&nbsp;&nbsp;&nbsp;
+              {a} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <span
                 onClick={(e) => {
                   e.stopPropagation(); // blocked event bubbling
