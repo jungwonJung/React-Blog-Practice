@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Blog-Practice/static/css/main.b67f2656.css",
-    "main.js": "/React-Blog-Practice/static/js/main.61359b40.js",
+    "main.css": "/React-Blog-Practice/static/css/main.901c6742.css",
+    "main.js": "/React-Blog-Practice/static/js/main.956f9d9e.js",
     "static/js/787.f587e8d5.chunk.js": "/React-Blog-Practice/static/js/787.f587e8d5.chunk.js",
     "index.html": "/React-Blog-Practice/index.html",
-    "main.b67f2656.css.map": "/React-Blog-Practice/static/css/main.b67f2656.css.map",
-    "main.61359b40.js.map": "/React-Blog-Practice/static/js/main.61359b40.js.map",
+    "main.901c6742.css.map": "/React-Blog-Practice/static/css/main.901c6742.css.map",
+    "main.956f9d9e.js.map": "/React-Blog-Practice/static/js/main.956f9d9e.js.map",
     "787.f587e8d5.chunk.js.map": "/React-Blog-Practice/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b67f2656.css",
-    "static/js/main.61359b40.js"
+    "static/css/main.901c6742.css",
+    "static/js/main.956f9d9e.js"
   ]
 }
